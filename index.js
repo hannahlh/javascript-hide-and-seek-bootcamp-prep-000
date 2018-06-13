@@ -1,1 +1,1 @@
-function getFirstSelector(selector)
+function document.getFirstSelector(selector)
